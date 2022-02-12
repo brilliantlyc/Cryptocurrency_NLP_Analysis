@@ -22,7 +22,7 @@ Ethereum Sentiment
 ![ethereum_sentiment](Images/ethereum_sentiment.png)
 
 
-From the above screenshots, it is evident that Ethereum had the highest: mean positive score, compound score, and positive score.
+From the above screenshots, it is evident that Ethereum had the highest: mean positive score, compound score, negative score, and positive score.
 
 ## Natural Language Processing
 
